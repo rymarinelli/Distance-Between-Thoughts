@@ -1,0 +1,11 @@
+pandas
+numpy
+pyyaml
+requests
+scikit-learn
+sentence-transformers
+rouge-score
+matplotlib
+seaborn
+scipy
+statsmodels
